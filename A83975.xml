@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a friend concerning the bill for resuming the forfeited estates in Ireland.</title>
+            <author>R. E.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83975</idno>
+            <idno type="STC">Wing E29</idno>
+            <idno type="STC">ESTC R171891</idno>
+            <idno type="EEBO-CITATION">47683426</idno>
+            <idno type="OCLC">ocm 47683426</idno>
+            <idno type="VID">172849</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172849)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2653:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a friend concerning the bill for resuming the forfeited estates in Ireland.</title>
+                  <author>R. E.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Author,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Constitutional history --  Great Britain.</term>
+               <term>Attainder --  Ireland --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1714.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:172849:1" rendition="simple:additions"/>
+            <head>A LETTER <hi>to a Friend concerning the</hi> BILL <hi>for Reſuming the Forfeited Eſtates in</hi> Ireland.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THOUGH I was always of your Opinion, and thought our <hi>Conſtitu<g ref="char:EOLhyphen"/>tion</hi> happily Temper'd, both to preſerve it ſelf, and promote the Hap<g ref="char:EOLhyphen"/>pineſs of the Community; yet, did I never look ſo nearly into the Advantages of the <hi>Ariſtocratical</hi> Part of our Politie, and the Power which the <hi>Lords</hi> have in the Legiſlature, as lately, ſince the Debates have happen'd about Reſuming the Kin'gs Grants: To any conſidering Perſon it muſt ſeem a mighty Security to us, That a <hi>Bill,</hi> after it has had the Aſſent of the <hi>Delegates</hi> of the <hi>People,</hi> neceſſarily requires the Concurrence of the Lords, before it can have have the Sanction of a <hi>Law.</hi> They have an Oppottunity, upon a more mature Deli<g ref="char:EOLhyphen"/>beration, of weighing the Arguments on both ſides; of conſidering what <hi>Affections</hi> promoted it; and diſcovering whether it be Profitable and Juſt, and ought to paſs into a Law or no. In ſuch Deliberations their Lordſhips are always ſway'd by Principles of Honour; and, not owing the Part they have in making Laws to Popular Elections, are not under the hard Neceſſity of Gratifying any greedy, or unreaſonable Deſires of any part of the People. To humour any Party, or Faction, they are not conſtrain'd to violate Publick Juſtice, to abandon the King's, or their own Right, and to break that Ballance which they have always kept in our State. Perhaps, when they ſeriouſly conſider the Matter, they may find, that they have not often had more Reaſon for Exerting their Power, than in the Bill they are now poſſeſs'd of. Since you deſire it, I will give you my Thoughts, what 'tis they juſtly may, what probably they will do; I muſt in ſhort aſſure you, That when I conſider, how tender they are of their Reputation, how glorious they reckon it, to act Conſonantly to themſelves, and to ſtick to the Principles of Juſtice and Honour which determin'd them before, my Opinion is, they cannot get over the Difficulties of this Bill. The Reaſons you ſhall be Judge of.</p>
+            <p>You may remember, that on the laſt day of <hi>December,</hi> 1690, an Engroſs'd Bill, <hi>For Confiſcating the Lands of the Rebels in</hi> Ireland, <hi>and applying them to the uſe of the War,</hi> was ſent from the <hi>Commons</hi> to the <hi>Lords</hi> Houſe. <hi>January</hi> the 5th. His Ma<g ref="char:EOLhyphen"/>jeſty, at the Adjournment of the Parliament, told both Houſes, <hi>That he would not make any Grant of the Forfeited Lands, till there was another Opportunity of ſettling that Matter in Parliament.</hi> After the Adjournment the <hi>Lords</hi> met again on the <hi>31ſt.</hi> day of <hi>March,</hi> at which time the Engroſs'd Bill lay before them. They had then an <hi>Opportunity</hi> (if I underſtand what that word ſignifies) of paſſing the Bill, and ſettling that Matter. Had they done it, and His Majeſty had refus'd his Roy<g ref="char:EOLhyphen"/>al Aſſent, there had been ſome ſhew of Reaſon for Peoples making a Noiſe about his Promiſe; as things ſtand now there's none. Their Lordſhips let that <hi>Bill</hi> fall, as they did another the year following, and the Commons did ſeveral others. Their Reaſons are Manifeſt: They would not diſpoſe of thoſe Forfeitures, be<g ref="char:EOLhyphen"/>cauſe 'twas His ſole and undoubted Right by his Prerogative, (which is the Com<g ref="char:EOLhyphen"/>mon Law of the Land) to grant them away as he pleas'd. Beſides the Matter of Juſtice, they were of Opinion, That it would be more our Intereſt, to let the World ſee that we Honour'd the King, and would give him his Due, than to em<g ref="char:EOLhyphen"/>ploy thoſe Lands to the uſe of the War. I dare not in this Matter Arraign their Judgment, or ſay 'twas contrary to Juſtice, or the Publick Good. I know Money is very valuable, eſpecially when we want it, as we did at that time: But perhaps (as their Lordſhips thought) we purchaſe it too dear, when to obtain it, we break through the ſettled and ancient Rules of our Conſtitution; Invade the King's Right; and place a particular Mark of Unkindneſs on Him. 'Tis plain to any thinking Perſon, without making any Enquiries, that they let that Bill fall, becauſe they thought it Unjuſt: Otherwiſe it can't well be deny'd that they were unkind to their poor Country, ingag'd at that time in a long and expenſive War,
+<pb n="2" facs="tcp:172849:2"/>in depriving it of the great Summ that was propos'd to be rais'd out of thoſe For<g ref="char:EOLhyphen"/>feitures. If to ſtave off this Imputation any one will ſay, that for the good of their Country they let them lye, till they ſhou'd be granted away, Improv'd, and made much more Valuable. This would be the higheſt Affront, for 'tis what never could enter into the Thoughts of Men of their Lordſhips nice Honour. If then they let that <hi>Bill</hi> fall, becauſe they thought it Unjuſt, they can't well paſs this which has infinitely greater Hardſhips in it. What then would be ſtraining at a Gnat (if the <hi>Bills</hi> be compar'd in all their Circumſtances) will be ſwallowing a Camel now. They gave up a <hi>Bill</hi> which left a third Part to the Diſpoſal of the King, becauſe they thought the whole was his Due; this deprives Him of the whole. We had then a War with a great and powerful Enemy, which we had reaſon to fear, would be long and Chargeable, now by His Maſteſty's Conduct we enjoy Plenty and Peace. Then the Matter had been Amicably Accommodated between the King and his Parliament, without any Symptoms of Affront and Unkindneſs to His Majeſty; now the Rancor of His worſt Enemies at Home, and the Deſires of their Friends Abroad are gratified. Then the Injury which they boggl'd at, reach'd only to the King; the preſent Bill does not only Affect Him much more Senſibly, but it Wounds our Conſtitution, and hurts Men of all Orders and Degrees.</p>
+            <p>His Ma;eſty's part in it is very extraordinary: He ſees (notwithſtanning what a late Author has irſinuated to the contrary) what no Engliſh Monarch ever did, all His Grants refum'd, without any Saving for His <hi>Prerogative.</hi> If the Lords will not interpoſe, but He be forc'd to paſs the Bill, (for conſidering Circumſtances, ſo I muſt expreſs it) He muſt give His Aſſent to a <hi>Bill,</hi> which deſtroys the Ar<g ref="char:EOLhyphen"/>ticles of <hi>Waterford,</hi> Sign'd with His own Hand: He muſt give up His Prerogative, which at His Coronation He Swore to Maintain: He muſt Proclaim to His Sub<g ref="char:EOLhyphen"/>jects, That 'twill be madneſs in them, whenever Troubles or Rebellions happen, to regard their Countrey, or take up Arms for Him who has it not in His Power to Reward; a thing of dangerous and ill Conſequence to Him and His Kingdoms: He muſt take away the Rewards of Loyalty and good Services He has given; and conſent to the Ruin of Multitudes, for whoſe Preſervation He has hazarded His Blood.</p>
+            <p>If a Bill which bears thus hard upon His Majeſty, can be ſaid to be truly Cal<g ref="char:EOLhyphen"/>culated for the common Good, yet we can't avoid entertaining another Opinion of it, if it ſeem to affect our Polity. We generally glory in our Conſtitution, and think that we have all the Advantages of Democracy, Ariſtocracy, and Monarchi<g ref="char:EOLhyphen"/>cal Government, without the Defects or Exorbitancies of either, becauſe nothing can paſs into a Law, till it has been duly examin'd by the King, Lords, and Re<g ref="char:EOLhyphen"/>preſentatives of the People. This is generally reckon'd the happy Temperament of our <hi>Conſtitution:</hi> But what becomes of it, if the Delegates of the Commons, to a Bill, which can only have its Riſe in their Houſe, can tack Foreign Clauſes which it ſhall not be in the Power of the <hi>Lords</hi> to Examine? If this be the Right and Pri<g ref="char:EOLhyphen"/>viledge of the <hi>Commons,</hi> they may with that conſolidate all other Bills, and ſo take the whole Legiſlature into their own Hands.</p>
+            <p>Beſides theſe great Inconveniencies, the Lords will find that great Multitudes are griev'd in this Bill, who could not be touch'd in that which they formerly let fall. They, who by the King's Grace and Favour, enjoy thoſe Forfeited Eſtates, are Legally ſeiz'd of them: For it muſt be own'd that a Grant made by His Majeſty, whether of Crown Lands, or Forfeitures, makes a good and legal Title. This is the Title by which many of the Lords hod their Eſtates; 'tis what admits of no Controverſie in our Laws; 'tis what the Lords allow'd when they let the Bills dye in their Houſe, and gave up the Forfeitures to His Majeſty. 'Tis likewiſe to be conſider'd, That as His Majeſty, by Fighting our Battles, and hazarding His Life, acquir'd a better Title to give, than generally our Kings have done, ſo the genera<g ref="char:EOLhyphen"/>lity of the Grantees made their Titles ſtronger in Equity, by their great Services. To reſume therefore from them, will be more than barely taking away what Men are legally poſſeſs'd of. This Bill does not ſave any one great Man; (I mean, of the Proteſtant Communion;) None of His Majeſty's neareſt Friends who ought to be conſider'd, if not for their own Merit, yet for His Sake: Not that Noble Fo<g ref="char:EOLhyphen"/>reigner
+<pb n="3" facs="tcp:172849:2" rendition="simple:additions"/>who Commanded our Army, and put an end to the War in <hi>Ireland;</hi> tho' the <hi>Commons</hi> careſſed Him for His Services: Nor another who had a good part in that Succeſsful Expedition, though his Grant is Charitably employ'd in Support<g ref="char:EOLhyphen"/>ing his poor Perſecuted Countrymen: Nor another Noble Perſon of our own Country, who ventur'd hard, and Travel'd far to procure the Happineſs we enjoy; though his good Services were confider'd in two former Bills, yet is he not regard<g ref="char:EOLhyphen"/>ed in this. The Lords, who derive their Honour from our Kings, and many of their Eſtates from their Grants, are the moſt competent Judges of theſe Hardſhips; and can very well ſee of what ill Conſequence 'twill be to their own Order, to paſs this Bill, and deſtroy that Perogative of the Crown, which is the Source and Fountain of their Grandeur.</p>
+            <p>Another great Hardſhip of the Bill is, That it deſtroys that Right which Pur<g ref="char:EOLhyphen"/>chaſers have in thoſe Lands, and deprives them of the Money they laid out. If they purchas'd under a Title that is good in our Law, they are legally Seiz'd; if ſo, the Lords will Judge whether it be a Hardſhip or no, to turn Men out of their Freeholds. They who are for the Bill, ſay, they purchas'd a bad Title. The Title had been good enough, if it had been left to ſtand upon its own Bottom: If it be invalidated afterwards by an Act of Parliament, that is not the Fault of the Title, nor of thoſe who purchaſs'd it. In prejudice of the Title, they ſay, the Houſe of <hi>Commons</hi> Addreſs'd the King, and pray'd he would not diſpoſe of the Forfeitures. If the King had a Right to them by Law, that Addreſs (if there had been ſuch an Addreſs, as there never was) could make no Alteration in the Title, for an Addreſs of the Houſe of <hi>Commons</hi> cannot alter the Law of <hi>England.</hi> To ſtrengthen their Argument, they urge the King's Promiſe. What did he Promiſe? That he would never diſpoſe of the Forfeitures? If Men are enclin'd to overlook that Reſpect which is due to Majeſty, and tax the King with breach of Promiſe, yet they ought to conſider what a Reproach 'tis to themſelves to miſtake the Senſe of very plain Engliſh. They who conſider His Majeſty's Words, will ſee that the Lords (to ſay nothing of what the Commons did themſelves) Cancell'd all the Obligations of his Promiſe: And the Purchaſers, who took all their Encouragement from the Lords, thought what their Lordſhips did, was of as great Force to Strengthen, as the <hi>Commons</hi> Addreſs was to make void a ſettled and undoubted Right.</p>
+            <p>Beſides theſe Purchaſers, there are others whoſe Caſes, I'm told, are very deplo<g ref="char:EOLhyphen"/>rable. They who knew the State of <hi>Ireland</hi> at that time, ſay, That in the late Troubles the Proteſtants every where in the Country were Plunder'd by the Iriſh, and driven out of their Habitations. After the Reduction of that Kingdom, the Engliſh, whoſe Cattle and Goods had been generally taken away, and in many places, their Houſes burnt, not being able to hold their former Leaſes, were, very generally ſpeaking, deſtitute of Settlement, and Habitation. To many of them Leaſes were made by the King, whilſt the Lands were in his Hands. Afterwards His Majeſty's Grantees made it a Rule to encourage them. This was occaſion'd by an unlucky, and (as it appears) wrong Notion conceiv'd by them, that it would promote the Engliſh and Proteſtant Intereſt in that Kingdom, to encourage Prote<g ref="char:EOLhyphen"/>ſtant Tenants. This Bill deprives all theſe of the Fruits of their Labour for many Years: It makes void their Leaſes without any Conſideration for their Improve<g ref="char:EOLhyphen"/>ments, which have rais'd the Value of the Lands; it turns them out of their Habi<g ref="char:EOLhyphen"/>tations, and (as I am inform'd by thoſe who underſtand the Genius of the Coun<g ref="char:EOLhyphen"/>try) in effect puts them into the Hands of the Iriſh, who will certainly bid moſt for them. Were the Bill free from the heavy Clogs 'tis loaded with, could no other Objection be made againſt it, than this one great and general Calamity that it brings (as I'm very well inform'd) on many thouſand Proteſtant Families, this alone were enough to terrifie the Lords from paſſing it. They who would not ſeize the Forfeitures, when the King only had a Property in them, becauſe they would not invade his Right, will hardly think it reaſonable, after Nine Years time, when People are ſettled in their Habitations, to turn them out, and reſume their Improvements, and the Sweat of their Brows, to defray the Charge of the War.</p>
+            <pb n="4" facs="tcp:172849:3" rendition="simple:additions"/>
+            <p>Theſe Hardſhips are generally allow'd, but 'tis ſaid, that they now are only to be Bewail'd, not Remedy'd. The Lords, they ſay, Muſt make no Alterations, becauſe 'tis a Money Bill: 'Tis pity it ſhould be ſo. I always thought a Money Bill, which was priviledg'd from the Inſpection of the Lords, was that in which the <hi>Commons</hi> rais'd Money by a fair and equal Tax on the People, whoſe Repre<g ref="char:EOLhyphen"/>ſentatives they are. If Men's Eſtates were ſeiz'd in groſs, I imagin'd that ought to be reckon'd a Penalty or Mulct rather than a Tax laid on them by their Repreſentatives; Beſides, I don't remember that any Money has ever been paid upon ſuch a <hi>Bill</hi> in <hi>Ireland.</hi> To Conſolidate Clauſes, how Heterogeneous ſoever, with a Money-Bill, and call them part of it, is a very ready way to lodge the whole Legiſlature in the Commons; but 'tis a great Soleciſm in Speech, and a Contradiction in our Conſtitution. What will not paſs currently hereafter in a Money-Bill, if the Clauſe which ſtrikes at ſeveral Men of Knowledge and Integrity, and renders Members of Parliament incapable of being Commiſſioners of the Exciſe, be now Adopted into that Family? This is not only foreign to the Bill, but of moſt dangerous conſequence to the Commonwealth. That, we know, which ſecures the Peace and Happineſs of our Community, is, the mu<g ref="char:EOLhyphen"/>tual Confidence which the King and his People have in each other. To Enact therefore a publick Diſtruſt, to tell the People ſo Solemnly, that worthy Men, whom they have Choſen for their Repreſentatives, are not to be Truſted in the King's Service, is, to create in People Jealouſies and Suſpicions of the King, and to hazard the Safety of the publick.</p>
+            <p>I have, <hi>Sir,</hi> tir'd you with a longer Letter than I deſign'd, I now ſhall only deſire you to Reflect upon what the Lords did formerly, and then conſider, whe-'tis poſſible they ſhould paſs this Bill; A Bill which bears ſo hard upon the King; Which cramps the Power of the Lords, and conſequently affects the <hi>Conſtitution</hi> of <hi>England;</hi> Which Deprives Grantees and Purchaſers of the Freeholds they are legally poſſeſſed of; and Turns others out of their Habitations and Improvements; Which Deſtroys many other Legal Titles; Which ſets up a ſevere <hi>Inquiſition</hi> in <hi>Ireland;</hi> and Veſts a Power in the <hi>Inquiſitors</hi> too great to be given to any of the <hi>Sons of Men.</hi>
+            </p>
+            <p>Notwithſtanding theſe Severities, 'tis ſaid, That the Lords muſt paſs the Bill, becauſe the Neceſſity of our Affairs requires it. I can't ſee what preſſing Neceſ<g ref="char:EOLhyphen"/>ſity there is for us to do what we think Hard, and ſeem to Condemn. The Eng<g ref="char:EOLhyphen"/>liſh Land-Tax Bill may ſoon be recover'd: The Purchaſe Money of the Iriſh For<g ref="char:EOLhyphen"/>feitures requires a conſiderable time to have it brought into the <hi>Exchequer.</hi> If Money muſt be rais'd on thoſe Lands, it may be done without Reſuming His Majeſty's Grants, without Seizing the Freeholds of Grantees and Purchaſers, or the Labours of others; and that with greater Expedition, and infinitely more to the Satisfaction of the People of <hi>England,</hi> than 'twill be now: For if this Bill paſs you will ſee ſuch Calamities follow it, as will Grieve all the merciful and tender-hearted People of <hi>England;</hi> but the Advantages which you expect by it you will never ſee.</p>
+            <p>I forgot to tell you that His Majeſty, after the Lords let the firſt <hi>Bill</hi> fall, and Abſolv'd Him from His Promiſe, ſtaid almoſt Three Years before He made any one Grant.</p>
+            <p>I ask your Pardon for the trouble of ſo long a Letter.</p>
+            <closer>
+               <signed>
+                  <hi>I am, Your very humble Servant,</hi> R. E.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
